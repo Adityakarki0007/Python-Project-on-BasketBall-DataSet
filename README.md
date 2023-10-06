@@ -1,5 +1,6 @@
 # Some KEY Findings that Shape our Understanding From this Analyze :
-1.Visualizing based on Performance of Player over the past 10 years.
+1.Visualizing based on Performance of Player over the past 10 years. <br/>
+
 2.Visualizing based on Salary 
 3.Visualizing based on Accuracy
 4.Visualizing based on Highest Paid Player over 10 years
