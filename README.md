@@ -1,4 +1,4 @@
-# Some KEY Findings that Shape our Understanding From this Analyze :
+# Some KEY Findings that Shape our Understanding From this Analysis :
 
 1.Visualizing based on Performance of Player over the past 10 years. <br/>
 
